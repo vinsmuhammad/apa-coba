@@ -19,7 +19,7 @@
   },
   "chats": {
     "6285137924304@s.whatsapp.net": {
-      "antipromosi": true,
+      "antipromosi": false,
       "antiporn": false,
       "antilink": false,
       "antilinkgc": false,
