@@ -1,1 +1,33 @@
-
+{
+  "users": {
+    "6285137924304@s.whatsapp.net": {
+      "daftar": false,
+      "nama": "No Name",
+      "otp": 8478,
+      "email": "-",
+      "serial": "-",
+      "dasbotz": false,
+      "banned": false,
+      "lastUnregTime": 1741265184223,
+      "gold": 0,
+      "saldo": 0,
+      "limit": 0,
+      "level": 0,
+      "exp": 0,
+      "autoai": false
+    }
+  },
+  "chats": {
+    "6285137924304@s.whatsapp.net": {
+      "antipromosi": false,
+      "antiporn": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "antitoxic": false,
+      "antibot": false,
+      "nsfw": false
+    }
+  },
+  "others": {},
+  "settings": {}
+}
